@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xiaofei Ren a Phd student
 
-- 📫 How to reach me [1]xiaofeiren@chd.edu.cn [2]xiaofei.ren.1997@gmail.com
+- 📫 How to reach me [1]xiaofei.ren.1997@gmail.com [2]xiaofeiren@chd.edu.cn
 
 <!---
 XiaofeiR/XiaofeiR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
